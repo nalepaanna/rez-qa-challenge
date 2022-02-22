@@ -7,13 +7,14 @@ QA Directives:
     *	https://www.cypress.io/
   *	Use CSS to select elements (no XPATH)
   *	Each story should have their own test suite
-  *	Automated tests should be committed to a public repo on GIT hub
-    *	https://github.com/ 
+  *	Automated tests should be committed to a branch of this repo
+    *	The branch name should be your firstname_lastname 
     *	You can use either, your personal account, or create a ‘burner’ account for this commit.
-    *	Anyone accessing the Repo should have sufficient documentation to run both suites. 
+    *	Anyone accessing your branch should have sufficient documentation to run both suites. 
     *	Do not include the node_modules in your commit.
   *	Visual Studio Code is the preferred IDE and can be downloaded for free
     *	https://code.visualstudio.com/Download
+    *	You are free to commit any IDE settings you think are relevent to other engineers running your tests
     
 ---
 
