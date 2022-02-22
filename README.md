@@ -19,10 +19,11 @@ QA Directives:
 ---
 
 Story One:
+
 As a user I want the ability to save properties I’m looking at to review later.
 
 Acceptance Criteria:
-  *	Each property on the hub should have an easy Favorite on/off button indicating that this property has been saved.
+  *	Each property on the [hub](https://www.rezfusionhubdemo.com/hub-test-vacation-rentals) should have an easy Favorite on/off button indicating that this property has been saved.
   *	The hub should have an indicator on the number of properties selected as saved.
     *	This indicator should show the total count of saved properties.
     *	When the indicator is clicked the hub should only display saved properties.
@@ -30,10 +31,15 @@ Acceptance Criteria:
   *	When a property is selected; there should be an indicator showing the property has been saved.
     *	This indicator can be toggled on or off from the property detail’s view
     *	This change should reflect correctly on the total saved count on the main hub
+
+Story Artifacts:
+
+Main Hub is at https://www.rezfusionhubdemo.com/hub-test-vacation-rentals
       
 ---
 
 Story Two:
+
 As a user I want the ability to filter properties based on the number of bedrooms and bathrooms.
 
 Acceptance Criteria:
@@ -41,3 +47,9 @@ Acceptance Criteria:
     *	The selection should limit the value to an integer with a lower value of 0 (zero). 
   *	The Clear Filters button should reset both filters to their lower value.
   *	The View Results button should close the Filter Results page and display properties on the hub meeting the criteria.
+
+
+Story Artifacts:
+
+Main Hub is at https://www.rezfusionhubdemo.com/hub-test-vacation-rentals
+
