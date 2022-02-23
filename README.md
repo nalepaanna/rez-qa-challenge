@@ -1,6 +1,6 @@
 # rez-qa-challenge
 
-As a QA Engineer we are expected to write automation for features competed by the development team. It is our task to automate the two following stories to ensure we have the proper coverage before releasing this product. 
+As a QA Engineer we are expected to write automation for features completed by the development team. It is our task to automate both stories One and Two, ensuring we have the proper test coverage before releasing this product. 
 
 QA Directives:
   *	Use Cypress.io at the latest version
@@ -8,19 +8,19 @@ QA Directives:
   *	Use CSS to select elements (no XPATH)
   *	Each story should have their own test suite
   *	Automated tests should be committed to a branch of this repo
-    *	The branch name should be your firstname_lastname 
+    *	The branch name should be your firstname_lastname. 
     *	You can use either, your personal account, or create a ‘burner’ account for this commit.
     *	Anyone accessing your branch should have sufficient documentation to run both suites. 
     *	Do not include the node_modules in your commit.
   *	Visual Studio Code is the preferred IDE and can be downloaded for free
     *	https://code.visualstudio.com/Download
-    *	You are free to commit any IDE settings you think are relevent to other engineers running your tests
+    *	You are free to commit any IDE settings you think are relevant to other engineers running your tests
     
 ---
 
 Story One:
 
-As a user I want the ability to save properties I’m looking at to review later.
+As a user I want the ability to save properties I’m looking at so they can be reviewed at a later time.
 
 Acceptance Criteria:
   *	Each property on the [hub](https://www.rezfusionhubdemo.com/hub-test-vacation-rentals) should have an easy Favorite on/off button indicating that this property has been saved.
