@@ -7,7 +7,7 @@ QA Directives:
     *	https://www.cypress.io/
   *	Use CSS to select elements (no XPATH)
   *	Each story should have their own test suite
-  *	Automated tests should be committed to a branch of this repo
+  *	Automated tests should be committed to a public repo
     *	The branch name should be your firstname_lastname. 
     *	You can use either, your personal account, or create a ‘burner’ account for this commit.
     *	Anyone accessing your branch should have sufficient documentation to run both suites. 
