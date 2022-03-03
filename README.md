@@ -8,7 +8,7 @@ QA Directives:
   *	Use CSS to select elements (no XPATH)
   *	Each story should have their own test suite
   *	Automated tests should be committed to a public repo
-    *	The branch name should be your firstname_lastname. 
+    *	The branch name should be rez-qa-chalenge. 
     *	You can use either, your personal account, or create a ‘burner’ account for this commit.
     *	Anyone accessing your branch should have sufficient documentation to run both suites. 
     *	Do not include the node_modules in your commit.
